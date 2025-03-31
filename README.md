@@ -13,17 +13,17 @@ The system leverages Apache Kafka for real-time data ingestion and processing, w
 
 ## Key Features
 
-## Real-time Stock Market Data Ingestion: Fetching live stock prices and other financial metrics using Kafka Producers.
+ Real-time Stock Market Data Ingestion: Fetching live stock prices and other financial metrics using Kafka Producers.
 
-## Scalable Streaming Architecture: Processing high-frequency stock data using Kafka Consumers.
+ Scalable Streaming Architecture: Processing high-frequency stock data using Kafka Consumers.
 
-## Cloud Storage with AWS S3: Storing structured and semi-structured stock data for analysis.
+ Cloud Storage with AWS S3: Storing structured and semi-structured stock data for analysis.
 
-## Automated Schema Detection: Using AWS Glue Crawlers and Glue Catalog for metadata management.
+ Automated Schema Detection: Using AWS Glue Crawlers and Glue Catalog for metadata management.
 
-## SQL-Based Querying with AWS Athena: Running efficient queries on real-time and historical stock data.
+ SQL-Based Querying with AWS Athena: Running efficient queries on real-time and historical stock data.
 
-## Flexible Deployment with AWS EC2: Hosting Apache Kafka and managing distributed data processing.
+Flexible Deployment with AWS EC2: Hosting Apache Kafka and managing distributed data processing.
 
 
 
